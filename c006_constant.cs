@@ -20,3 +20,7 @@ namespace DeclaringConstants
     }
 }
 
+// --- Output ---
+// Enter Radius: 
+// 10
+// Radius: 10, Area: 314.159

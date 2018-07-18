@@ -13,3 +13,6 @@ namespace TypeConversionApplication {
       }
    }
 }
+
+// --- Output ---
+// 5673

@@ -17,3 +17,9 @@ namespace TypeConversionApplication {
       }
    }
 }
+
+// --- Output ---
+// 75
+// 53.005
+// 2345.7652
+// True
